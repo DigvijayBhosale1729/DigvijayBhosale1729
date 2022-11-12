@@ -14,6 +14,8 @@
   
 </div>
 
+<br>
+
 Hi! I'm an Open Source Developer specializing in Python, Django and Flask with additional experience in React and Angular. I successfully Completed Google Sumemr of Code '22 at OWASP Foundation.
 
 I've been Contributing to various projects since 2020 and have over 20 python projects created by myself and over 50,000 lines of code contributed to multiple projects, most notably OWASP SecureTea and OWASP PyGoat.
