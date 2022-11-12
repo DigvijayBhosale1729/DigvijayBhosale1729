@@ -18,8 +18,22 @@
 
 Hi! I'm an Open Source Developer specializing in Python, Django and Flask with additional experience in React and Angular. I successfully Completed Google Sumemr of Code '22 at OWASP Foundation.
 
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+
 I've been Contributing to various projects since 2020 and have over 20 python projects created by myself and over 50,000 lines of code contributed to multiple projects, most notably OWASP SecureTea and OWASP PyGoat.
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=DigvijayBhosale1729&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DigvijayBhosale1729&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 [![Digvijay's github stats](https://github-readme-stats.vercel.app/api?username=DigvijayBhosale1729&show_icons=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
