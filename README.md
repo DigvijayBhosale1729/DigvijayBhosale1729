@@ -26,23 +26,11 @@
 
 <br>
 
-Hi! I'm an Open Source Developer specializing in Python, Django and Flask with additional experience in React and Angular. I successfully Completed Google Summer of Code '22 at OWASP Foundation and have been contributing to open source since 2020.
+Hi! I'm an Open Source Developer specializing in Python, Django and Flask with additional experience in React and Angular. I successfully Completed [Google Summer of Code '22](https://summerofcode.withgoogle.com/programs/2022/projects/SeyZbhc4) at OWASP Foundation and have been contributing to open source since 2020.
 
-I have developed Django REST APIs and frontends in React & Angular for OWASP as a part of GSoC '22. I have also worked with multiple Python Web Applications, APIs, Security Frameworks and Network Applications, authored over 20 python projects and contributed 55,000+ lines of code to multiple projects, most notably OWASP SecureTea and OWASP PyGoat.
+I have developed Django REST APIs and frontends in React & Angular for OWASP as a part of GSoC '22 (check out the [report](https://github.com/DigvijayBhosale1729/GSoC-22-OWASP-SecureTea-Final-Report/blob/main/FinalReport.md)). I have also worked with multiple Python Web Applications, APIs, Security Frameworks and Network Applications, authored over 20 python projects and contributed 55,000+ lines of code to multiple projects, most notably [OWASP SecureTea](https://github.com/OWASP/SecureTea-Project/graphs/contributors) and [OWASP PyGoat](https://github.com/adeyosemanputra/pygoat).
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="Angular" alt="Angular" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="Ruby" alt="Ruby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
 <br>
-
-
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DigvijayBhosale1729&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
